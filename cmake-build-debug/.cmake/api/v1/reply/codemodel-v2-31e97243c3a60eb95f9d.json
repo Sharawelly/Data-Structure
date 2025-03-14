@@ -1,0 +1,348 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DataStructure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure-Debug-864ff685c60d1a836da0.json",
+					"name" : "DataStructure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure1-Debug-fe7f182247637c7bfb45.json",
+					"name" : "DataStructure1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure10-Debug-c443c1ec2767f8890e27.json",
+					"name" : "DataStructure10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure11-Debug-78dafe604c3e536a8f5a.json",
+					"name" : "DataStructure11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure12-Debug-c3635e483c7a884b9e33.json",
+					"name" : "DataStructure12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure13-Debug-8aef5d0339ba54ba39eb.json",
+					"name" : "DataStructure13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure14-Debug-7c7d3ff802e8120e58ee.json",
+					"name" : "DataStructure14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure15-Debug-7115e296c317bd275fd9.json",
+					"name" : "DataStructure15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure16-Debug-5747aeaadb3c18b202df.json",
+					"name" : "DataStructure16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure17-Debug-371ea74ecb1988f73fb9.json",
+					"name" : "DataStructure17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure18-Debug-09bf07e306205497b2dd.json",
+					"name" : "DataStructure18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure19-Debug-9cf1ff56e64f54fcfe36.json",
+					"name" : "DataStructure19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure2-Debug-5d3b3b8d11539f27c9c8.json",
+					"name" : "DataStructure2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure20-Debug-b1819dbc5f36133f3a2e.json",
+					"name" : "DataStructure20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure21-Debug-da2406af2821def95224.json",
+					"name" : "DataStructure21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure22-Debug-0bf98123c1b823dc10c7.json",
+					"name" : "DataStructure22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure23-Debug-f79c7810f848a464bc9a.json",
+					"name" : "DataStructure23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure24-Debug-cc7fd0c98515eadc1758.json",
+					"name" : "DataStructure24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure25-Debug-2a9221554787cadb911d.json",
+					"name" : "DataStructure25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure26-Debug-ab25cc98df4dd53b756b.json",
+					"name" : "DataStructure26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure27-Debug-f2652e35345948f4bc0c.json",
+					"name" : "DataStructure27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure28-Debug-641da3004615bb412357.json",
+					"name" : "DataStructure28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure29-Debug-456e4c38a0d1c60248fe.json",
+					"name" : "DataStructure29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure3-Debug-caf644ea7f553269067e.json",
+					"name" : "DataStructure3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure30-Debug-eddc2cdf915ae4bf15d3.json",
+					"name" : "DataStructure30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure31-Debug-ba939af824230c52149c.json",
+					"name" : "DataStructure31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure32-Debug-36d19c9c5881aacbf35c.json",
+					"name" : "DataStructure32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure4-Debug-ceda8077b78f0798d679.json",
+					"name" : "DataStructure4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure5-Debug-fc4e8ad045dd4b7ff00b.json",
+					"name" : "DataStructure5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure6-Debug-b6af7594fa879659a2c8.json",
+					"name" : "DataStructure6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure7-Debug-bdec091cbbb966546f65.json",
+					"name" : "DataStructure7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure8-Debug-5481fdfe57a315fc2482.json",
+					"name" : "DataStructure8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DataStructure9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DataStructure9-Debug-d742d35391099fe12642.json",
+					"name" : "DataStructure9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Second Year 2st semester/DataStructure/DataStructure/cmake-build-debug",
+		"source" : "D:/Second Year 2st semester/DataStructure/DataStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
